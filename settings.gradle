@@ -1,0 +1,3 @@
+rootProject.name = "ks-input-module"
+include ':app'
+include ':ks-input-module'
